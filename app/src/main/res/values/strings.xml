@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Myapp</string>
+    <string name="title_activity_login">Login</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="login">Login</string>
+    <!--string for edittext hint in password-->
+    <string name="enter_password">Enter password</string>
+    <!--string for edittext hint in email-->
+    <string name="enter_youe_email">Enter your Email</string>
+    <!--string for logout button-->
+    <string name="logout">Logout</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mail">mail</string>
+    <string name="upload">upload</string>
+    <string name="share">share</string>
+</resources>
